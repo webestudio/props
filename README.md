@@ -159,8 +159,17 @@ El proyecto sigue los principios:
 
 ## 📄 Licencia
 
-Proyecto desarrollado para uso interno de agencia digital.
+Este proyecto es software de código abierto bajo la **Licencia MIT**.
+
+**Términos clave:**
+- Se permite el uso comercial.
+- Se permite la modificación y distribución.
+- Se permite el uso privado.
+- Se requiere mantener el aviso de copyright y la licencia original en todas las copias.
+
+Desarrollado por **webestudio** ([bravojorge56@gmail.com](mailto:bravojorge56@gmail.com))  
+Sitio web: [jorgebravo.info](https://jorgebravo.info)
 
 ---
 
-**Desarrollado con PHP puro, sin frameworks** 🚀
+**Desarrollado con PHP puro, sin frameworks**
