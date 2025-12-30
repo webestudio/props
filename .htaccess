@@ -1,0 +1,9 @@
+# Prevent directory listing
+Options -Indexes
+
+# Protect sensitive directories
+<IfModule mod_authz_core.c>
+    <DirectoryMatch "^/(src|database|vendor)">
+        Require all denied
+    </DirectoryMatch>
+</IfModule>

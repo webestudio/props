@@ -1,0 +1,22 @@
+# Composer
+/vendor/
+
+# Database
+/database/*.db
+/database/*.sqlite
+/database/*.sqlite-journal
+/database/*.sqlite-shm
+/database/*.sqlite-wal
+
+# Uploads (Keep directory, ignore content)
+/public/uploads/*
+!/public/uploads/.gitkeep
+
+# IDEs and OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
