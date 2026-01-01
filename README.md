@@ -145,8 +145,11 @@ La base de datos SQLite se crea automáticamente en `database/budget.db` con las
 - `users` - Usuarios del sistema
 - `clients` - Clientes
 - `projects` - Proyectos
+- `tasks` - Tareas de proyectos
 - `budgets` - Presupuestos
 - `budget_items` - Conceptos de presupuestos
+- `company_settings` - Opciones globales
+- `migrations` - Migraciones
 
 ## 🔧 Desarrollo
 
